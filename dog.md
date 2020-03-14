@@ -1,1 +1,1 @@
-dog 
+A dog  
